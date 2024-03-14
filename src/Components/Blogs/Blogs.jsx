@@ -2,9 +2,10 @@ import { data } from "autoprefixer";
 import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
+import PropTypes from 'prop-types';
 
 
-const Blogs = () => {
+const Blogs = ({handleBookmarks}) => {
 
     const [blogs,setBlogs] = useState([])
 
@@ -19,12 +20,17 @@ const Blogs = () => {
             <h1 className="text-4xl">Blogs:{blogs.length}</h1>
             {
                 blogs.map(blog => <Blog 
-                    key={blog.id} 
+                    key={blog.id}
+                    handleBookmarks={handleBookmarks} 
                     blog={blog}
                     ></Blog>)
             }
         </div>
     );
 };
+
+Blogs.propTypes = {
+    handleBookmarks : PropTypes.func
+}
 
 export default Blogs;
