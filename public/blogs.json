@@ -1,6 +1,6 @@
 [
     {
-      "id": "1",
+      "id": 1,
       "cover_img": "https://i.ibb.co/x6M5ktH/Business-Facebook-Cover-05.jpg",
       "author_img": "https://i.ibb.co/0jS7Yt7/fashionable-hipster-guy-dressed-stylish-black-hat-denim-shirt.jpg",
       "author_name": "Alice Smith",
@@ -10,7 +10,7 @@
       "hashtags": ["#fiction", "#gardening", "#secrets"]
     },
     {
-      "id": "2",
+      "id": 2,
       "cover_img": "https://i.ibb.co/QHsPjWb/business-facebook-cover-19.jpg",
       "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
       "author_name": "Bob Johnson",
@@ -20,7 +20,7 @@
       "hashtags": ["#cooking", "#recipes", "#foodie"]
     },
     {
-      "id": "3",
+      "id": 3,
       "cover_img": "https://i.ibb.co/30C0zpg/Real-Estate-Facebook-Cover-Banner-15.jpg",
       "author_img": "https://i.ibb.co/dDWXvMs/man-working-from-home-remote-office-concept.jpg",
       "author_name": "Charlie Brown",
@@ -30,7 +30,7 @@
       "hashtags": ["#travel", "#budget", "#adventure"]
     },
     {
-      "id": "4",
+      "id": 4,
       "cover_img": "https://i.ibb.co/x6M5ktH/Business-Facebook-Cover-05.jpg",
       "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
       "author_name": "Diana Miller",
@@ -40,7 +40,7 @@
       "hashtags": ["#photography", "#basics", "#tips"]
     },
     {
-      "id": "5",
+      "id": 5,
       "cover_img": "https://i.ibb.co/30C0zpg/Real-Estate-Facebook-Cover-Banner-15.jpg",
       "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
       "author_name": "Ethan Wilson",
