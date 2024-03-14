@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://i.ibb.co/x6M5ktH/Business-Facebook-Cover-05.jpg",
+      "author_img": "https://i.ibb.co/0jS7Yt7/fashionable-hipster-guy-dressed-stylish-black-hat-denim-shirt.jpg",
+      "author_name": "Alice Smith",
+      "title": "The Secret Garden",
+      "posted_date": "2024-03-14",
+      "reading_time": 25,
+      "hashtags": ["#fiction", "#gardening", "#secrets"]
+    },
+    {
+      "id": "2",
+      "cover_img": "https://i.ibb.co/QHsPjWb/business-facebook-cover-19.jpg",
+      "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "author_name": "Bob Johnson",
+      "title": "Cooking Adventures",
+      "posted_date": "2024-03-15",
+      "reading_time": 20,
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": "3",
+      "cover_img": "https://i.ibb.co/30C0zpg/Real-Estate-Facebook-Cover-Banner-15.jpg",
+      "author_img": "https://i.ibb.co/dDWXvMs/man-working-from-home-remote-office-concept.jpg",
+      "author_name": "Charlie Brown",
+      "title": "Traveling on a Budget",
+      "posted_date": "2024-03-16",
+      "reading_time": 30,
+      "hashtags": ["#travel", "#budget", "#adventure"]
+    },
+    {
+      "id": "4",
+      "cover_img": "https://i.ibb.co/x6M5ktH/Business-Facebook-Cover-05.jpg",
+      "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "author_name": "Diana Miller",
+      "title": "Photography Basics",
+      "posted_date": "2024-03-17",
+      "reading_time": 15,
+      "hashtags": ["#photography", "#basics", "#tips"]
+    },
+    {
+      "id": "5",
+      "cover_img": "https://i.ibb.co/30C0zpg/Real-Estate-Facebook-Cover-Banner-15.jpg",
+      "author_img": "https://i.ibb.co/28dqGBy/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth.jpg",
+      "author_name": "Ethan Wilson",
+      "title": "Fitness for Beginners",
+      "posted_date": "2024-03-18",
+      "reading_time": 35,
+      "hashtags": ["#fitness", "#exercise", "#health"]
+    }
+  ]
